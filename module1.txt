@@ -1,0 +1,26 @@
+1.What is software? What is software engineering?
+-software is set of commands or instructions tell to a computer to do.
+Examples: MS POWERPOINT,EXCEL,PAINT etc.
+-Software engineering is branch of computer science that deals with design,development,testing and Maintance of software.
+2.Explain Types of Software
+-1.Application Software
+ 2.System Software
+ 3.Driver Software
+ 4.middle Software
+1.Application Software
+-Application  Software made for some particular purpose for user.
+-Example: paint use for drawing, MS PowerPoint use for make slides.
+2.System software
+-System software is software designed to provide a platform for other software. Examples of system software include operating systems like macOS, Linux, Android, and Microsoft Windows.
+3.Middle Software
+-Middleware is software that lies between an operating system and the applications running on it. Essentially functioning as hidden translation layer, middleware enables communication and data management for distributed applications.
+Example:(Application program interface)API
+4.Driver Software
+-A driver is a software component that lets the operating system and a device communicate.
+
+3.What is SDLC?explain each phase of SDLC? 
+-SDLC Full form is Software Development Life Cycle.There are five phases of SDLC
+- inception, design, implementation, maintenance, and audit or disposal.
+4.What is DFD? Create a DFD diagram on Flipkart 
+-DFD means Data Flow Diagram.
+
